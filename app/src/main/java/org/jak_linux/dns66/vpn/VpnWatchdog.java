@@ -1,4 +1,4 @@
-/* Copyright (C) 2017 Julian Andres Klode <jak@jak-linux.org>
+/* Copyright (C) 2017 Software Freedom Conservancy (author: Julian Andres Klode) <jak@jak-linux.org>
  *
  * Parsing code derived from AdBuster:
  * Copyright (C) 2016 Daniel Brodie <dbrodie@gmail.com>
